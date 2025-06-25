@@ -1,0 +1,84 @@
+body {background-color: grey;
+    color: white;
+}
+
+
+
+h1 {
+    text-align: center;
+
+}
+
+
+ul {
+    text-align: center;
+    list-style: none;
+    padding: 10px;
+    margin-bottom: 50px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+     align-items: center;
+    
+}
+
+
+.lista a {padding: 10px;
+        margin: 10px;
+        
+        background-color: white;
+        color: black;
+}
+
+.lista a:hover{ color: white;
+                background-color: black;
+
+}
+
+
+#produto-card1 {padding: 10px;
+                margin-bottom: 20px;
+                background-color: black;
+                text-align: center;
+
+}
+
+#produto-card2 {padding: 10px;
+                margin-bottom: 20px;
+                background-color: black;
+                text-align: center;
+                
+}
+
+#produto-card3 {padding: 10px;
+                margin-bottom: 20px;
+                background-color: black;
+                text-align: center;
+                
+}
+
+#produto-card4 {padding: 10px;
+                margin-bottom: 20px;
+                background-color: black;
+                text-align: center;
+                
+}
+
+
+img {height: 400px;
+    width: 400px;
+    border-radius: 10%;
+}
+
+button a {background-color: gray;
+        color: black;
+        padding: 10px;
+        border-radius: 10px;
+        border: none;
+        cursor: pointer;
+
+}
+
+
+
